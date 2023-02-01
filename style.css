@@ -23,3 +23,7 @@
 #topNav a:hover {
   color: lime;
 }
+
+h1 {
+  text-align: center;
+}
